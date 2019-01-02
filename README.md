@@ -13,4 +13,6 @@ CSCD 300 Data Structures (Java) - Simple data structures and algorithms
 
 CSCD 320 Algorithms (Java) - Advanced data structures and algorithms
 
+CSCD 340 Operating Systems (C) - Operating system concepts
+
 CSCD 349 Design Patterns (Java) - OO design and techniques
