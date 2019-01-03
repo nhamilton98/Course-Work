@@ -16,7 +16,7 @@ namespace Assignment4
             SqlCommand cmd;
             SqlDataReader itemReader;
 
-            conn = new SqlConnection("Data Source=SQL7001.site4now.net;Initial Catalog=DB_A38E92_nhamilton;User Id=DB_A38E92_nhamilton_admin;Password=Jrjbcswh4;");
+            conn = new SqlConnection("Data Source=SQL7001.site4now.net;Initial Catalog=DB_A38E92_nhamilton;User Id=REDACTED;Password=REDACTED;");
 
             try
             {
