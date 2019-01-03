@@ -1,0 +1,22 @@
+.root {
+-fx-base: rgb(160,160,160);
+-fx-control-inner-background: rgb(220,220,220);
+}
+
+.menu-bar {
+-fx-background-color:
+linear-gradient(to bottom,
+derive(-fx-base,40%),
+-fx-base,
+derive(-fx-base,40%)
+);
+}
+
+.tool-bar:horizontal {
+-fx-background-color:
+linear-gradient(to bottom,
+derive(-fx-base,40%),
+-fx-base,
+derive(-fx-base,40%)
+);
+}
