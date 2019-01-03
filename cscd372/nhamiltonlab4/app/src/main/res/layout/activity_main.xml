@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    class="com.hamilton.nathan.nhamiltonlab4.MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <view
+
+        android:id="@+id/topNum"
+        class="com.hamilton.nathan.nhamiltonlab4.SevenSegment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/top"
+        android:gravity="center"
+        android:text="+1" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_width="match_parent">
+
+        <view
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            class="com.hamilton.nathan.nhamiltonlab4.SevenSegment"
+            android:id="@+id/bottomOne"
+            android:layout_weight="1"
+            android:gravity="start"/>
+
+        <view
+            class="com.hamilton.nathan.nhamiltonlab4.SevenSegment"
+            android:id="@+id/bottomTwo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"/>
+
+        <view
+            class="com.hamilton.nathan.nhamiltonlab4.SevenSegment"
+            android:id="@+id/bottomThree"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"/>
+        <view
+            class="com.hamilton.nathan.nhamiltonlab4.SevenSegment"
+            android:id="@+id/bottomFour"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="end"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

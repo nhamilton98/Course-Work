@@ -1,0 +1,44 @@
+Buick
+Gran Sport, 1965-1975, 401-455 cu in
+Wildcat, 1963-1970, 401-425 cu in
+END
+Chevrolet
+Camaro, 1967-1974, 427 cu in
+Chevelle, 1965-1973, 396 cu in
+El Camino, 1964-1975, 396-454 cu in
+Impala, 1965-1974, 396-454 cu in
+Nova, 1966-1974, 396-402 cu in
+END
+Dodge
+Challenger, 1969-1974, 383-440 cu in
+Charger, 1966-1974, 383-440 cu in
+Dart, 1967-1976, 383-440 cu in
+Super Bee, 1968-1971, 383-440 cu in
+Viper, 1992-1998, 488 cu in
+END
+Ford
+Galaxie, 1965-1974, 390-429 cu in
+Mustang, 1964-1973, 390-429 cu in
+Thunderbolt, 1964-1965, 427 cu in
+END
+Mercury
+Cougar, 1967-1973, 427-429 cu in
+Cyclone, 1966-1972, 390-429 cu in
+END
+Oldsmobile
+The 442, 1968-1972, 400-455 cu in
+Cutlass, 1968-1972, 400-455 cu in
+END
+Plymouth
+Barracuda, 1967-1974, 383-440 cu in
+Duster, 1970-1976, 360 cu in
+GTX, 1967-1971, 426-440 cu in
+Road Runner, 1968-1974, 383-440 cu in
+END
+Pontiac
+Trans Am, 1967-1981, 400-455 cu in
+GTO, 1964-1974, 389-455 cu in
+END
+Shelby
+Cobra MkIII, 1965-1967, 427 cu in
+END
