@@ -14,3 +14,9 @@ CSCD 320 Algorithms (Java) - Advanced data structures and algorithms
 CSCD 340 Operating Systems (C) - Operating system concepts
 
 CSCD 349 Design Patterns (Java) - OO design and techniques
+
+CSCD 350 Software Engineering (Java) - Small team simulation of the agile development process
+
+CSCD 370 GUI Programming (JavaFX) - Basic GUI concepts and design
+
+CSCD 372 Android App Development (Java Android) - Mobile app development on the Android platform
