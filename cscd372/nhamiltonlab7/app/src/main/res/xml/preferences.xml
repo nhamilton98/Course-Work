@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        android:id="@+id/spring_stiff_pref"
+        android:defaultValue="1.5"
+        android:key="spring_stiff_pref"
+        android:selectAllOnFocus="true"
+        android:summary="1.5"
+        android:title="@string/pref_stiff" />
+
+    <com.hamilton.nathan.nhamiltonlab7.NumberPickerPreference
+        android:id="@+id/num_coils_pref"
+        android:key="num_coils_pref"
+        android:title="@string/pref_coils"
+        android:summary="11"
+        custom:max="14"
+        custom:min="8"
+        custom:wrap="false"/>
+
+    <com.hamilton.nathan.nhamiltonlab7.NumberPickerPreference
+        android:id="@+id/start_pos_pref"
+        android:key="start_pos_pref"
+        android:title="@string/pref_start"
+        android:summary="0"
+        custom:max="16"
+        custom:min="0"
+        custom:wrap="false"/>
+
+    <ListPreference
+        android:defaultValue="Rectangle"
+        android:entries="@array/mass_type"
+        android:entryValues="@array/mass_type"
+        android:key="mass_type_pref"
+        android:id="@+id/mass_type_pref"
+        android:summary="Rectangle"
+        android:title="Mass Type" />
+
+</PreferenceScreen>
