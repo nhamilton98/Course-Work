@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">nhamiltonlab2</string>
+    <string name="action_about">About</string>
+    <string name="drawer_close">Open Drawer</string>
+    <string name="drawer_open">Close Drawer</string>
+
+    <string-array name="photo_names">
+        <item>Cindy</item>
+        <item>Fred</item>
+        <item>Kate</item>
+        <item>Keith</item>
+        <item>Matt</item>
+        <item>Rickey</item>
+    </string-array>
+
+    <integer-array name="image_ids">
+        <item>@drawable/cindy</item>
+        <item>@drawable/fred</item>
+        <item>@drawable/kate</item>
+        <item>@drawable/keith</item>
+        <item>@drawable/matt</item>
+        <item>@drawable/rickey</item>
+    </integer-array>
+</resources>

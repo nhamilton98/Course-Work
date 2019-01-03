@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto">
+
+    <com.hamilton.nathan.nhamiltonfinal.NumberPickerPreference
+        android:defaultValue="2"
+        android:key="ghosts_per_level"
+        android:summary="2"
+        android:title="Level 1 Ghosts"
+        custom:max="4"
+        custom:min="1"
+        custom:wrap="false" />
+
+    <com.hamilton.nathan.nhamiltonfinal.NumberPickerPreference
+        android:defaultValue="2"
+        android:key="new_ghosts"
+        android:summary="2"
+        android:title="Ghosts Added Per Level"
+        custom:max="4"
+        custom:min="1"
+        custom:wrap="false" />
+
+</PreferenceScreen>
