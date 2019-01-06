@@ -11,6 +11,8 @@ CSCD 300 Data Structures (Java) - Simple data structures and algorithms
 
 CSCD 320 Algorithms (Java) - Advanced data structures and algorithms
 
+CSCD 327 Database (MySql & Java) - DDL, DML, and code-database integration
+
 CSCD 340 Operating Systems (C) - Operating system concepts
 
 CSCD 349 Design Patterns (Java) - OO design and techniques
@@ -20,3 +22,5 @@ CSCD 350 Software Engineering (Java) - Small team simulation of the agile develo
 CSCD 370 GUI Programming (JavaFX) - Basic GUI concepts and design
 
 CSCD 372 Android App Development (Java Android) - Mobile app development on the Android platform
+
+CSCD 437 Secure Coding (Java & C) - Mitigation techniques for common code attacks
