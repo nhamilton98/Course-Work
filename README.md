@@ -23,4 +23,6 @@ CSCD 370 GUI Programming (JavaFX) - Basic GUI concepts and design
 
 CSCD 372 Android App Development (Java Android) - Mobile app development on the Android platform
 
+CSCD 379 ASP .NET (C# & HTML5) - ASP .NET Web Design
+
 CSCD 437 Secure Coding (Java & C) - Mitigation techniques for common code attacks
