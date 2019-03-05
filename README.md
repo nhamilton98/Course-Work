@@ -1,11 +1,19 @@
 # Course-Work
 This repository is a compilation of all of my course work I have completed thus far at Eastern Washington University.
 
+
 Showcase Projects:
+
 Pacman for Android - cscd372 > nhamiltonfinal > app
+
 Commerce Website - cscd379 > assignment4
+
 Centipede in JavaFX - cscd370 > NHamiltonFinal
+
 Drawing Program in JavaFX - cscd370 > NHamiltonLab5
+
+
+Course Descriptions:
 
 CSCD 210 Programming Principles I (Java) - Simple coding syntax and OO concepts
 
