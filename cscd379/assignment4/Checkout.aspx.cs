@@ -15,31 +15,9 @@ namespace Assignment4
         protected void Page_Load(object sender, EventArgs e)
         {
             email.Attributes["type"] = "email";
-            SqlConnection conn;
-            SqlCommand cmd;
-            SqlDataReader IDReader;
 
-            conn = new SqlConnection("Data Source=SQL7001.site4now.net;Initial Catalog=DB_A38E92_nhamilton;User Id=DB_A38E92_nhamilton_admin;Password=Jrjbcswh4;");
-
-            try
-            {
-                conn.Open();
-                cmd = new SqlCommand("SELECT * FROM OrderID WHERE company = 'Wholesale';", conn);
-                IDReader = cmd.ExecuteReader();
-
-                if (IDReader.Read())
-                    orderID = Int32.Parse(IDReader["orderID"].ToString());
-            }
-            catch (Exception err)
-            {
-                err.ToString();
-            }
-            finally
-            {
-                conn.Close();
-                IDReader = null;
-                cmd = null;
-            }
+            Random rand = new Random();
+            orderID = rand.Next(30000, 40000);
         }
 
         protected void Continue_Click(object sender, EventArgs e)
@@ -56,12 +34,12 @@ namespace Assignment4
             List<CartItem> cart = (List<CartItem>)Session["Cart"];
             double subTotal = 0.0, totalShipping = 0.0, total = 0.0;
 
-            MailMessage mail = new MailMessage("postmaster@nhamiltonwebapp.com", customer.GetEmail());
+            MailMessage mail = new MailMessage("postmaster@nhamiltonportfolio.com", customer.GetEmail());
             SmtpClient client = new SmtpClient();
             client.Port = 25;
-            client.Host = "mail.nhamiltonwebapp.com";
+            client.Host = "mail.nhamiltonportfolio.com";
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
-            client.Credentials = new System.Net.NetworkCredential("postmaster@nhamiltonwebapp.com", "Jrjbcswh4");
+            client.Credentials = new System.Net.NetworkCredential("postmaster@nhamiltonportfolio.com", "Jrjbcswh14!");
             client.EnableSsl = false;
 
             mail.Subject = "No Reply: Vehicle Order Confirmation";

@@ -16,7 +16,7 @@ namespace Assignment4
         protected void Page_Load(object sender, EventArgs e)
         {
             TableHeaders();
-            customer = (Customer) Session["Customer"];
+            customer = (Customer)Session["Customer"];
             OrderID.Text = "Order ID: " + this.customer.GetOrderID().ToString();
 
             if (Session["Cart"] != null)
@@ -26,27 +26,6 @@ namespace Assignment4
             }
             else
                 FinalizeTable();
-
-            SqlConnection conn;
-            SqlCommand cmd;
-            conn = new SqlConnection("Data Source=SQL7001.site4now.net;Initial Catalog=DB_A38E92_nhamilton;User Id=DB_A38E92_nhamilton_admin;Password=Jrjbcswh4;");
-
-            try
-            {
-                int id = customer.GetOrderID() + 3;
-                conn.Open();
-                cmd = new SqlCommand("UPDATE OrderID SET orderID = " + id + " WHERE Company = 'Wholesale';", conn);
-                cmd.ExecuteNonQuery();
-            }
-            catch (Exception err)
-            {
-                err.ToString();
-            }
-            finally
-            {
-                conn = null;
-                cmd = null;
-            }
 
             Session["Cart"] = null;
         }
