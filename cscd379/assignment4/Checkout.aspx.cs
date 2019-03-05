@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -39,7 +39,7 @@ namespace Assignment4
             client.Port = 25;
             client.Host = "mail.nhamiltonportfolio.com";
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
-            client.Credentials = new System.Net.NetworkCredential("postmaster@nhamiltonportfolio.com", "Jrjbcswh14!");
+            client.Credentials = new System.Net.NetworkCredential("postmaster@nhamiltonportfolio.com", "REDACTED");
             client.EnableSsl = false;
 
             mail.Subject = "No Reply: Vehicle Order Confirmation";
