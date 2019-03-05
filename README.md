@@ -9,7 +9,7 @@ Commerce Website - cscd379 > assignment4
 
 Centipede in JavaFX - cscd370 > NHamiltonFinal
 
-Drawing Program in JavaFX - cscd370 > NHamiltonLab5
+Drawing Program in JavaFX - cscd370 > NHamiltonLab5 https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonLab5
 
 # Course Descriptions:
 
