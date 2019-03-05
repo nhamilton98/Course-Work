@@ -9,8 +9,6 @@ Commerce Website - https://github.com/nhamilton98/Course-Work/tree/master/cscd37
 
 Centipede in JavaFX - https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonFinal
 
-Drawing Program in JavaFX - https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonLab5
-
 # Course Descriptions:
 
 CSCD 210 Programming Principles I (Java) - Simple coding syntax and OO concepts
@@ -33,8 +31,8 @@ CSCD 350 Software Engineering (Java) - Small team simulation of the agile develo
 
 CSCD 370 GUI Programming (JavaFX) - Basic GUI concepts and design
 
-CSCD 372 Android App Development (Java Android) - Mobile app development on the Android platform
+CSCD 372 Android App Development (Java) - Mobile app development on the Android platform
 
 CSCD 379 ASP .NET (C# & HTML5) - ASP .NET Web Design
 
-CSCD 437 Secure Coding (Java & C) - Mitigation techniques for common code attacks
+CSCD 437 Secure Coding (Java & C) - Mitigation techniques for common code attacks and vulnerabilities
