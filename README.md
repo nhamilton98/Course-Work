@@ -1,5 +1,17 @@
-# Course-Work
-This is a compilation of all coding course work I have completed in my studies at Eastern Washington University.
+# Course Work
+This repository is a compilation of all of my course work I have completed thus far at Eastern Washington University.
+
+# Showcase Projects
+
+Pacman for Android - https://github.com/nhamilton98/Course-Work/tree/master/cscd372/nhamiltonfinal/app
+
+Commerce Website - https://github.com/nhamilton98/Course-Work/tree/master/cscd379/assignment4
+
+Centipede in JavaFX - https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonFinal
+
+Drawing Program in JavaFX - https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonLab5
+
+# Course Descriptions:
 
 CSCD 210 Programming Principles I (Java) - Simple coding syntax and OO concepts
 
