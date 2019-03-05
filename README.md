@@ -3,13 +3,13 @@ This repository is a compilation of all of my course work I have completed thus 
 
 # Showcase Projects
 
-Pacman for Android - cscd372 > nhamiltonfinal > app
+Pacman for Android - https://github.com/nhamilton98/Course-Work/tree/master/cscd372/nhamiltonfinal/app
 
-Commerce Website - cscd379 > assignment4
+Commerce Website - https://github.com/nhamilton98/Course-Work/tree/master/cscd379/assignment4
 
-Centipede in JavaFX - cscd370 > NHamiltonFinal
+Centipede in JavaFX - https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonFinal
 
-Drawing Program in JavaFX - cscd370 > NHamiltonLab5 https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonLab5
+Drawing Program in JavaFX - https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonLab5
 
 # Course Descriptions:
 
