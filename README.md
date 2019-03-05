@@ -7,8 +7,6 @@ Pacman for Android - https://github.com/nhamilton98/Course-Work/tree/master/cscd
 
 Commerce Website - https://github.com/nhamilton98/Course-Work/tree/master/cscd379/assignment4
 
-      Website Link - http://nhamiltonportfolio.com/shopping/default.aspx
-
 Centipede in JavaFX - https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonFinal
 
 Drawing Program in JavaFX - https://github.com/nhamilton98/Course-Work/tree/master/cscd370/NHamiltonLab5
