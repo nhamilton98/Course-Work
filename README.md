@@ -35,7 +35,7 @@ CSCD 350 Software Engineering (Java) - Small team simulation of the agile develo
 
 CSCD 370 GUI Programming (JavaFX) - Basic GUI concepts and design
 
-CSCD 377 Intro to Computer Graphics (C++) - Computer graphics with OpenGL
+CSCD 377 Introductory Computer Graphics (C++) - Computer graphics with OpenGL
 
 CSCD 372 Android App Development (Java) - Mobile app development on the Android platform
 
