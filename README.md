@@ -1,5 +1,5 @@
 # Course Work
-This repository is a compilation of all of my coding course work I have completed thus far at Eastern Washington University.
+This repository is a compilation of all of my coding course work I have completed to date at Eastern Washington University.
 
 # Showcase Projects
 
