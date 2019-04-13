@@ -3,5 +3,4 @@ This project is a simulation of an online commerce website. The landing page and
 
 Note: All utilized images were retrieved from Google Images, all item descriptions were compiled from various vehicle information websites, and all data collected during checkout is used purely for confirmation email purposes.
 
-# Check It Out!
-Try it out for yourself! Visit http://nhamiltonportfolio.com/shopping/default.aspx to get started!
+[Check It Out!](http://nhamiltonportfolio.com/shopping/default.aspx)
